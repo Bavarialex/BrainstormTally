@@ -35,4 +35,8 @@ Pcb in use:
 
 ![pcb](https://github.com/Bavarialex/BrainstormTally/blob/main/pics/pcb.jpg)
 
+InfinitySet has to be configured to send TCP-tally:
+
+![bstally](https://github.com/Bavarialex/BrainstormTally/blob/main/pics/bstally.JPG)
+
 How to flash WT32 - ETH for first time use is described [here](https://werner.rothschopf.net/microcontroller/202401_esp32_wt32_eth01_en.htm).
