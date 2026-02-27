@@ -35,4 +35,4 @@ Pcb in use:
 
 ![pcb](https://github.com/Bavarialex/BrainstormTally/blob/main/pics/pcb.jpg)
 
-How to flash WT32 - ETH for first time use is described ![here](https://werner.rothschopf.net/microcontroller/202401_esp32_wt32_eth01_en.htm).
+How to flash WT32 - ETH for first time use is described [here](https://werner.rothschopf.net/microcontroller/202401_esp32_wt32_eth01_en.htm).
