@@ -21,3 +21,6 @@ and a 4-relay board.
 
 Brainstorm Tally Injector is providing a web frontend to show current status:
 ![http01](https://github.com/Bavarialex/BrainstormTally/blob/main/pics/http01.JPG)
+
+Enabling OTA updates:
+![http02](https://github.com/Bavarialex/BrainstormTally/blob/main/pics/http02.JPG)
