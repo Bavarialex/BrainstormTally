@@ -17,3 +17,6 @@ Based on WT32 - ETH board, containing an ESP32 microcontroller with Ethernet fun
 
 and a 4-relay board.
 ![relay](https://github.com/Bavarialex/BrainstormTally/blob/main/pics/relay.jpg)
+
+Brainstorm Tally Injector is providing a web frontend to show current status:
+![http01](https://github.com/Bavarialex/BrainstormTally/blob/main/pics/http01.jpg)
