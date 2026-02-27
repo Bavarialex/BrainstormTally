@@ -13,4 +13,4 @@ Brainstorm Tally Injector provides dry closure contacts for camera tally, when i
 Attached in between tally output from mixer and tally inputs at cameras.
 
 Based on WT32 - ETH board, containing an ESP32 microcontroller with Ethernet functionality.
-![mixer](https://github.com/Bavarialex/BrainstormTally/blob/main/pics/mixer.jpg)
+![wt32-eth](https://github.com/Bavarialex/BrainstormTally/blob/main/pics/wt32-eth.jpg)
