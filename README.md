@@ -14,3 +14,6 @@ Attached in between tally output from mixer and tally inputs at cameras.
 
 Based on WT32 - ETH board, containing an ESP32 microcontroller with Ethernet functionality.
 ![wt32-eth](https://github.com/Bavarialex/BrainstormTally/blob/main/pics/wt32-eth.jpg)
+
+and a 4-relay board.
+![relay](https://github.com/Bavarialex/BrainstormTally/blob/main/pics/relay.jpg)
