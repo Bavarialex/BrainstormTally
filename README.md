@@ -29,3 +29,7 @@ Enabling OTA updates:
 and serial output for debugging purposes:
 
 ![http03](https://github.com/Bavarialex/BrainstormTally/blob/main/pics/http03.JPG)
+
+Pcb in use:
+
+![pcb](https://github.com/Bavarialex/BrainstormTally/blob/main/pics/pcb.jpg)
