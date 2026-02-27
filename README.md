@@ -23,4 +23,9 @@ Brainstorm Tally Injector is providing a web frontend to show current status:
 ![http01](https://github.com/Bavarialex/BrainstormTally/blob/main/pics/http01.JPG)
 
 Enabling OTA updates:
+
 ![http02](https://github.com/Bavarialex/BrainstormTally/blob/main/pics/http02.JPG)
+
+and serial output for debugging purposes:
+
+![http03](https://github.com/Bavarialex/BrainstormTally/blob/main/pics/http03.JPG)
