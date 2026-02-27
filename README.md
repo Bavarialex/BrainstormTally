@@ -11,6 +11,7 @@ When using input 4 (BS - output Brainstorm Infinityset), no tally to camera is a
 
 Brainstorm Tally Injector provides dry closure contacts for camera tally, when input 4 (BS) is selected.
 Attached in between tally output from mixer and tally inputs at cameras.
+Normal funtionality when using direct buttons remains available.
 
 Based on WT32 - ETH board, containing an ESP32 microcontroller with Ethernet functionality.
 ![wt32-eth](https://github.com/Bavarialex/BrainstormTally/blob/main/pics/wt32-eth.jpg)
@@ -33,3 +34,5 @@ and serial output for debugging purposes:
 Pcb in use:
 
 ![pcb](https://github.com/Bavarialex/BrainstormTally/blob/main/pics/pcb.jpg)
+
+How to flash WT32 - ETH for first time use is described ![here](https://werner.rothschopf.net/microcontroller/202401_esp32_wt32_eth01_en.htm).
